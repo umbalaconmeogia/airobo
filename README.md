@@ -18,4 +18,7 @@
 * まずは事件実証のロボットを作成して、半年で運用してみます。
 * 効果があれば、専用ロボット作成を企画して作成します。
 
-## 実行計画
+## 実行企画
+
+[挨拶ロボット作成企画.pdf](docs/20210306.挨拶ロボット作成企画.pdf)
+[資料のソース](https://docs.google.com/presentation/d/1ZtcLx9IsiDL5qkm4JrKC4B_rx9HJ03v5iiE2imwrQ1U/edit?usp=sharing)
