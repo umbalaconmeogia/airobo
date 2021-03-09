@@ -23,3 +23,7 @@
 [挨拶ロボット作成企画.pdf](docs/20210306.挨拶ロボット作成企画.pdf)
 
 [資料のソース](https://docs.google.com/presentation/d/1ZtcLx9IsiDL5qkm4JrKC4B_rx9HJ03v5iiE2imwrQ1U/edit?usp=sharing)
+
+## メンバー募集
+
+[メンバー募集内容](docs/memberWanted.md)
